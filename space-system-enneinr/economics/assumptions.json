@@ -1,0 +1,13 @@
+{
+  "currency": "INR",
+  "acquisitionCost": "0.00",
+  "shippingCost": "0.00",
+  "marketplaceFeeRate": "0.00",
+  "paymentFeeRate": "0.00",
+  "otherCosts": "0.00",
+  "scenarioPrices": {
+    "low": null,
+    "base": null,
+    "high": null
+  }
+}
